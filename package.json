@@ -1,5 +1,5 @@
 {
-	"name": "mediaplayer-core",
+	"name": "@thoughtsunificator/mediaplayer-core",
 	"description": "media player for domodel",
 	"version": "1.0.1",
 	"type": "module",
