@@ -1,6 +1,6 @@
 # mediaplayer-core
 
-Core for [mediaplayer-streaming](https://github.com/thoughtsunificator/mediaplayer-streaming) and [mediaplayer-reading](https://github.com/thoughtsunificator/mediaplayer-reading).
+media player for domodel
 
 ## Getting started
 
