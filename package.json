@@ -1,7 +1,7 @@
 {
 	"name": "@thoughtsunificator/mediaplayer-core",
 	"description": "media player for domodel",
-	"version": "1.0.8",
+	"version": "1.0.10",
 	"type": "module",
 	"main": "index.js",
 	"devDependencies": {
